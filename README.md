@@ -15,7 +15,8 @@ This made computers smaller, faster, cheaper, and more reliable. Operating syste
 •	Fourth generation
 The fourth generation began in the 1970s with the development of the microprocessor. A microprocessor placed the main processing functions of a computer onto a single chip.
 This development led to the growth of personal computers (PCs). Companies such as Apple, IBM, and Microsoft played important roles in the growth of personal computing. Computers became affordable and available to homes, schools, offices, and businesses.
-Present state of computers
+  
+  Present state of computers
 The present generation of computers is generally associated with the Fifth Generation of computers. It began around the 1980s and continues to develop today. Fifth-generation computers are based on advanced technologies such as Artificial Intelligence (AI), machine learning, natural language processing, robotics, cloud computing, and advanced microprocessors.
 Modern computers are much smaller, faster, more powerful, and more reliable than earlier generations. They can process huge amounts of data within a very short time and can perform complex tasks automatically. Examples of present-day computers include laptops, desktop computers, smartphones, tablets, servers, supercomputers, and AI-based systems.
 The fourth generation, which introduced the microprocessor and personal computer, is also an important foundation of today's computers.
